@@ -1,6 +1,6 @@
 # Introduction
 
-All Candy Machine V2 functionalities are implemented :
+Candy Machine functionalities implemented :
 
 - public mint (with countdown when date in future)
 - civic support (gatekeeper)
